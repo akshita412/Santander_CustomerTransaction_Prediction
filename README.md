@@ -1,2 +1,2 @@
-# Santander_CustomerTransaction_Prediction
-Classifier for Kaggle's Santander customer transactions prediction
+# MSBA6420_CustomerTransactionPrediction
+Github repository for MSBA 6420 final project
