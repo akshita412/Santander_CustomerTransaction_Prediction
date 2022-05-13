@@ -31,8 +31,5 @@ Data Source Link: https://www.kaggle.com/competitions/santander-customer-transac
 - Basic models mentioned in the previous step are stacked together. This is followed by ensembling 200 models, one model for every feature and its flag
 - 200 stacking models are then ensembled which achieved best performance, an AUC of 0.916
 
-## Result
-91.4% of the time, the model will rank a true purchasing customer ahead of a customer that will not actually purchase. Santander can take strategic business decisions based on this information and approach the diferent sets of customers in separate ways.
-
-
 ## Results
+91.4% of the time, the model will rank a true purchasing customer ahead of a customer that will not actually purchase. Santander can take strategic business decisions based on this information and approach the diferent sets of customers in separate ways.
