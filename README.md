@@ -2,7 +2,7 @@
 This project repository is created in partial fulfillment of the requirements for the Predictive Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
 
 ## Key Question
-How can we utilize AWS services to provide a robust data exploration and ML pipeline that predicts the likelihood of advertisements being clicked?
+How can we predict if a Sanatander customer will make a transaction in future based on 200 anonymized features?
 
 ## Topic
 Santander is a Spanish multinational corporation bank and financial-based company operating in Europe, Asia, and North and South America. Santander continually helps its customers:
